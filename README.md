@@ -22,9 +22,6 @@ Glad to see you in my repo, welcome!
   <a href="https://t.me/apendover">
     <img src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/tsandrey">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </div>
 
 <!--
